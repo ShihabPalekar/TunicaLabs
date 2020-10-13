@@ -1,0 +1,42 @@
+body {
+    margin: 0;
+    background-color: honeydew;
+}
+
+nav{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    height: 65px;
+    padding-top: 0.75rem;
+}
+
+.nav-links{
+    display: flex;
+    width: 33%;
+    justify-content: space-around;
+    align-items: center;
+    list-style: none;
+}
+
+.student-table{
+    margin: 3rem;
+}
+
+.add-new-card{
+    margin: 3rem 31rem;
+    padding: 1rem 2.5rem 1.25rem;
+}
+
+.submitBtn {
+    margin: 1.25rem 6rem 0.1rem;
+}
+
+.log-in-card{
+    margin: 7.5rem 33rem;
+    padding: 3rem 2.5rem;
+}
+
+.loginBtn{
+    margin: 1.75rem 4.25rem 0;
+}
